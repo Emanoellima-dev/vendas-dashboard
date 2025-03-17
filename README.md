@@ -8,7 +8,7 @@ Este é um projeto de um dashboard feito em python para análise de vendas de um
 - Dash
 
 ## Funcionalidades
-com esse dashboa é possivel analisar:
+com esse dashboard é possivel analisar:
 - o faturamento total
 - o produto mais vendido
 - o produto com maior preço unitário
